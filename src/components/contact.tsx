@@ -130,7 +130,8 @@ export default function Contact() {
                     </p>
 
                     <p className="mt-1 text-xs text-white/70 sm:text-sm md:text-base">
-                      +91 98765 43210
+                      +91 81606 21014
+                      +91 80029 72645
                     </p>
                   </div>
                 </div>
@@ -150,7 +151,7 @@ export default function Contact() {
                     </p>
 
                     <p className="mt-1 break-all text-xs text-white/70 sm:text-sm md:text-base">
-                      hello@rudraaevents.com
+                      contact.rudraaevents@gmail.com
                     </p>
                   </div>
                 </div>
