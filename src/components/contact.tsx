@@ -154,7 +154,7 @@ export default function Contact() {
                     </p>
 
                     <p className="mt-1 break-all text-xs text-white/70 sm:text-sm md:text-base">
-                      contact.rudraaevents@gmail.com
+                 contact.rudraaevents@gmail.com
                     </p>
                   </div>
                 </div>
