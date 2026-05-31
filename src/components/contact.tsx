@@ -131,7 +131,10 @@ export default function Contact() {
 
                     <p className="mt-1 text-xs text-white/70 sm:text-sm md:text-base">
                       +91 81606 21014
+                      Shivam Chandratre
+                      
                       +91 80029 72645
+                      Sanjana Chandratre
                     </p>
                   </div>
                 </div>
